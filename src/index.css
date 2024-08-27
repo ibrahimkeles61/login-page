@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "sf-pro-display-regular";
+  src: url(fonts/SFPRODISPLAYREGULAR.OTF);
+}
+
+@font-face {
+  font-family: "sf-pro-display-bold";
+  src: url(fonts/SFPRODISPLAYBOLD.OTF);
+}
+
+@font-face {
+  font-family: "sf-pro-display-medium";
+  src: url(fonts/SFPRODISPLAYMEDIUM.OTF);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,28 @@
+.customInput--container {
+  width: 388px;
+  height: 60px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.customInput--input {
+  border-radius: 10px;
+  width: inherit;
+  height: inherit;
+  border: 1px solid #dfe1e6;
+  outline: none;
+  padding: 27px 0 14px 20px;
+
+  text-align: left;
+  font-family: "sf-pro-display-regular";
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.customInput--input:focus {
+  border-color: #1676f8;
+}

@@ -1,0 +1,92 @@
+.loginSection {
+  padding-top: 93.41px;
+  padding-left: 100px;
+  width: 588px;
+  height: inherit;
+  /* background-color: aqua; */
+}
+
+.loginSection--glomilLogo {
+  width: 206px;
+  height: 70px;
+}
+
+.loginSection--mainTitle {
+  margin-top: 57.61px;
+  text-align: left;
+  font-size: 22px;
+  line-height: 26px;
+  font-family: "sf-pro-display-bold";
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.loginSection--infoText {
+  margin-top: 6px;
+  text-align: left;
+  font-size: 16px;
+  line-height: 19px;
+  font-family: "sf-pro-display-medium";
+  letter-spacing: 0px;
+  color: #8f9bb3;
+  opacity: 1;
+}
+
+.loginSection--inputs {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.loginSection--loginButton {
+  margin-top: 30px;
+  width: 104px;
+  height: 51px;
+  background-color: #000000;
+  display: grid;
+  place-content: center;
+  border-radius: 10px;
+  transition: all 0.1s ease;
+}
+
+.loginSection--loginButton:hover {
+  background-color: #4d4d4d;
+  cursor: pointer;
+}
+
+.loginSection--loginButton p {
+  text-align: left;
+  font-family: "sf-pro-display-bold";
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.3px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.loginSection--linkText {
+  text-align: left;
+  font-family: "sf-pro-display-regular";
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+p.loginSection--linkText:first-child {
+  margin-top: 44.07px;
+  cursor: pointer;
+}
+
+p.loginSection--linkText:first-child span {
+  margin-left: 10px;
+  font-family: "sf-pro-display-bold";
+}
+
+p.loginSection--linkText:nth-child(2) {
+  margin-top: 17.93px;
+  cursor: pointer;
+}

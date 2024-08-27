@@ -1,0 +1,12 @@
+.pictureSection {
+  position: relative;
+  width: 1332px;
+  height: inherit;
+  overflow: hidden;
+}
+
+.catPicture {
+  height: inherit;
+  position: absolute;
+  right: 0;
+}

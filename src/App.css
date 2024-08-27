@@ -1,0 +1,7 @@
+.app {
+  /* width: 100%; */
+  width: 1920px;
+  /* height: 100vh; */
+  height: 960px;
+  display: flex;
+}
